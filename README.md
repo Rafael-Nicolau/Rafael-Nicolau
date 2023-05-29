@@ -12,6 +12,8 @@ Some technologies that I have a good experience to help any team are:
 
 — React
 
+- React Native
+
 — MongoDB (simple CRUD)
 
 — Git (Gitlab and GitHub)
