@@ -1,21 +1,19 @@
-Hello to you.
+I am a highly skilled Frontend Developer with a strong understanding of backend technologies. My expertise lies in a range of technologies that contribute to the success of any development team. Some of the key areas I specialize in include:
 
-Unfotunately working full time and being a father leaves me not much time to focus on personal projects, so it might be a little outdated here, last project was just an exercise to get a better grip of Vue+Pinia+Typescript.
+Vue.js: I possess extensive experience in building robust and scalable applications using the Vue.js framework.
 
-Some technologies that I have a good experience to help any team are:
+JavaScript: I am proficient in JavaScript and utilize it to create dynamic and interactive web applications.
 
-— Vue.Js
+Version Control: I am well-versed in Git, including GitLab and GitHub, enabling efficient collaboration and code management.
 
-— JavaScript
+Test-Driven Development (TDD): I am skilled in implementing TDD methodologies using tools such as Jest, Vitest, and Cypress.
 
-— NodeJS (express + CRUD)
+React.js: I have a solid understanding of the React.js library and can leverage it to develop engaging user interfaces.
 
-— React
+React Native: I am proficient in utilizing React Native to build cross-platform mobile applications.
 
-- React Native
+Beyond my technical abilities, I am a dedicated team player and possess excellent communication skills. With my background experience in leadership and team management, I am adept at leading and coordinating small teams effectively.
 
-— MongoDB (simple CRUD)
+In 2019, I made a successful career transition into programming full-time. Additionally, I have gained considerable experience as a freelance frontend developer, which has allowed me to refine my skills and work on diverse projects.
 
-— Git (Gitlab and GitHub)
-
-— WordPress (and legacy php)
+I am passionate about delivering high-quality software solutions and constantly stay updated with the latest industry trends and best practices. I thrive in dynamic environments and look forward to contributing my expertise to projects that drive innovation and success.
