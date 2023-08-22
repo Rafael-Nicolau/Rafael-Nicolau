@@ -1,19 +1,17 @@
-I am a highly skilled Frontend Developer with a strong understanding of backend technologies. My expertise lies in a range of technologies that contribute to the success of any development team. Some of the key areas I specialize in include:
+# Hey, I'm Rafael Nicolau 👋
 
-Vue.js: I possess extensive experience in building robust and scalable applications using the Vue.js framework.
+Welcome to my GitHub profile! I'm a passionate Frontend Developer with a knack for crafting exceptional web experiences. My journey is defined by the code I write, the projects I embark on, and the innovation I champion.
 
-JavaScript: I am proficient in JavaScript and utilize it to create dynamic and interactive web applications.
+🔭 **What I'm Up To**
+Currently, I'm dedicating my full energy and expertise to my role as a Frontend Developer at [Sedo GmbH](www.sedo.com). My time is primarily focused on developing cutting-edge solutions and enhancing user experiences within our team while getting rid of old legacy bits :D.
 
-Version Control: I am well-versed in Git, including GitLab and GitHub, enabling efficient collaboration and code management.
+🚀 **GitHub and Freelance**
+While my active development on personal projects might be a bit slower these days, you can explore my repositories to find an array of frontend projects that showcase my skills.
 
-Test-Driven Development (TDD): I am skilled in implementing TDD methodologies using tools such as Jest, Vitest, and Cypress.
+🌐 **Get in Touch**
+Although my primary commitment lies with my company projects, I'm always open to connecting with fellow developers, sharing ideas, and engaging in meaningful conversations. Feel free to reach out, and let's exchange insights!
 
-React.js: I have a solid understanding of the React.js library and can leverage it to develop engaging user interfaces.
+📫 **Contact**
+LinkedIn: [Rafael Nicolau](https://www.linkedin.com/in/your-linkedin-profile/)
 
-React Native: I am proficient in utilizing React Native to build cross-platform mobile applications.
-
-Beyond my technical abilities, I am a dedicated team player and possess excellent communication skills. With my background experience in leadership and team management, I am adept at leading and coordinating small teams effectively.
-
-In 2019, I made a successful career transition into programming full-time. Additionally, I have gained considerable experience as a freelance frontend developer, which has allowed me to refine my skills and work on diverse projects.
-
-I am passionate about delivering high-quality software solutions and constantly stay updated with the latest industry trends and best practices. I thrive in dynamic environments and look forward to contributing my expertise to projects that drive innovation and success.
+Bis später! 🖖
