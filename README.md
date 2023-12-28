@@ -5,7 +5,7 @@ I'm a Frontend Developer with some backend knowlegde.
 ## **Current Job**
 Frontend Developer at [Sedo GmbH](www.sedo.com).
 
-## **Technologies where I have exiperience with**
+## **My experience:**
 ### Languages
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
