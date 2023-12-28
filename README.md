@@ -1,17 +1,27 @@
-# Hey, I'm Rafael Nicolau 👋
+# Hey, I'm Rafael Nicolau
 
-Welcome to my GitHub profile! I'm a passionate Frontend Developer with a knack for crafting exceptional web experiences. My journey is defined by the code I write, the projects I embark on, and the innovation I champion.
+I'm a Frontend Developer with some backend knowlegde.
 
-🔭 **What I'm Up To**
-Currently, I'm dedicating my full energy and expertise to my role as a Frontend Developer at [Sedo GmbH](www.sedo.com). My time is primarily focused on developing cutting-edge solutions and enhancing user experiences within our team while getting rid of old legacy bits :D.
+## **Current Job**
+Frontend Developer at [Sedo GmbH](www.sedo.com).
 
-🚀 **GitHub and Freelance**
-While my active development on personal projects might be a bit slower these days, you can explore my repositories to find an array of frontend projects that showcase my skills.
+## **Technologies where I have exiperience with**
+### Languages
 
-🌐 **Get in Touch**
-Although my primary commitment lies with my company projects, I'm always open to connecting with fellow developers, sharing ideas, and engaging in meaningful conversations. Feel free to reach out, and let's exchange insights!
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-📫 **Contact**
+### Front-End Development
+![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![next](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![vue](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![nuxt](https://img.shields.io/badge/Nuxt.JS-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+
+### Backend Knowledge
+![Node](https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=#339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+
+## **Contact**
 LinkedIn: [Rafael Nicolau](https://www.linkedin.com/in/your-linkedin-profile/)
 
-Bis später! 🖖
+Email: nicolaurafael@hotmail.com
